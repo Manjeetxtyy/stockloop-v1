@@ -1,1 +1,0 @@
-# stockloop-v1
